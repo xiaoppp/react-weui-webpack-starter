@@ -4,4 +4,4 @@
 - dev: npm run dev
 - build: npm run build
 
-### Thanks to vue-cli
+### Thanks to vue-cli for this powerful tool
